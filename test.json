@@ -10,7 +10,7 @@
       "native_for_admob":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "interval_intertitial": ,
+      "interval_intertitial": 3,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"1234567890",
       "high_paying_keyword_1": "",
