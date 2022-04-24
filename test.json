@@ -2,8 +2,8 @@
   "Ads":
   [
     {
-      "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"STARTAPP",
+      "select_main_ads": "",
+      "select_backup_ads":"",
       "main_ads_banner": "",
       "appodeal_apikey": "",
       "main_ads_intertitial":"",
@@ -12,7 +12,7 @@
       "backup_ads_intertitial":"",
       "interval_intertitial": 3,
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"1234567890",
+      "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
